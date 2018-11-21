@@ -1,0 +1,2 @@
+# WeiboLoginTool
+基于WebCollector的新浪微博爬虫及相关登录工具，如新浪微博Cookie获取
